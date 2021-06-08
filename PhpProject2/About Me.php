@@ -48,7 +48,8 @@
                                                         <br/><br/><h3>&nbsp;&nbsp;&nbsp;&nbsp;Mr. Hasmukhlal Modi</h3>
                                                                 
 								<b><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profession : Accountant and LIC Agent.</p>
-                                                                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nearly 40 years of experience as Accountant.</p>
+                                                                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience of nearly 40 years as Accountant.</p>
+                                                                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience of 20 years as LIC agent.</p>
                                                                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working as Freelancer Accountant from 10 years.</p></b>
                                                         <hr/>
                                                         <img src="images/WhatsApp Image 2021-06-07 at 21.18.55.jpeg" height="300" width="230" align="left"/>	
